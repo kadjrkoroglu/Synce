@@ -116,14 +116,6 @@ Lost packets are re-requested automatically, and playback accounts for each devi
 
 ---
 
-## 🇹🇷 Türkçe
-
-**Synce**, Mac'te çalan her sesi (Spotify, YouTube, film…) aynı Wi‑Fi'daki iPhone ve Mac'lere **sıkıştırmasız kalitede** ve **milisaniyenin altında senkronla** gönderir. Varsayılan gecikme yalnızca **250 ms**. Mikrofonla **otomatik kalibrasyon** sayesinde Bluetooth hoparlörler bile aynı anda çalar. Ses ağınızdan dışarı çıkmaz, hesap gerekmez. Yakında App Store'da.
-
----
-
-<div align="center">
-
 Made with ♥ by **Kadir Köroğlu** · Source code is private.
 
 </div>
