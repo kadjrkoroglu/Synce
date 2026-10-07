@@ -20,27 +20,26 @@ Stream everything your Mac plays (Spotify, YouTube, movies, games…) to iPhones
 
 ## 📸 Screenshots
 
-<table>
-  <tr>
-    <th>Mac · Home</th>
-    <th>Mac · Live broadcast</th>
-  </tr>
-  <tr>
-    <td><img src="assets/screenshots/mac-home.png" width="400" alt="Mac home screen" /></td>
-    <td><img src="assets/screenshots/mac-broadcast.png" width="400" alt="Mac broadcasting live to an iPhone" /></td>
-  </tr>
-</table>
+### 💻 On your Mac
 
-<table>
-  <tr>
-    <th>iPhone · Home</th>
-    <th>iPhone · Listening</th>
-  </tr>
-  <tr>
-    <td><img src="assets/screenshots/iphone-home.png" width="300" alt="iPhone home screen" /></td>
-    <td><img src="assets/screenshots/iphone-listening.png" width="300" alt="iPhone playing in sync" /></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/screenshots/mac-home.png" width="49%" alt="Synce home screen on Mac" />
+  <img src="assets/screenshots/mac-broadcast.png" width="49%" alt="Mac broadcasting live to an iPhone" />
+</p>
+<p align="center">
+  <sub><b>Home</b> — choose to broadcast or listen &nbsp;·&nbsp; <b>Live broadcast</b> — listeners, sync accuracy and stats at a glance</sub>
+</p>
+
+### 📱 On your iPhone
+
+<p align="center">
+  <img src="assets/screenshots/iphone-home.png" width="30%" alt="Synce home screen on iPhone" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/screenshots/iphone-listening.png" width="30%" alt="iPhone playing in sync with the Mac" />
+</p>
+<p align="center">
+  <sub><b>Home</b> — tap Listen to find your Mac &nbsp;·&nbsp; <b>Listening</b> — volume, one-tap calibration and fine-tuning</sub>
+</p>
 
 ---
 
@@ -49,12 +48,13 @@ Stream everything your Mac plays (Spotify, YouTube, movies, games…) to iPhones
 | | |
 |---|---|
 | 🎧 **Full quality** | Uncompressed 16‑bit PCM at your Mac's native rate (44.1 / 48 kHz). Listeners hear exactly what the Mac plays — no crackles, no pitch drift. |
-| ⏱️ **Tiny delay** | 250 ms default buffer (adjustable up to 2 s). Good for music *and* video. |
+| ⏱️ **Tiny delay** | 250 ms default buffer (choose 200 ms – 2 s). Good for music *and* video. |
 | 🎯 **Tight sync** | Devices stay within ~0.2 ms of each other on a normal home Wi‑Fi. |
 | 🔊 **Any app, zero setup** | Captures the whole system output. No drivers, no plugins, no extra software. |
 | 🎙️ **Auto-calibrate** | One tap: the phone's microphone measures the gap between the Mac and itself and fixes it — even for Bluetooth speakers. |
 | 📡 **Finds devices by itself** | Tap *Listen* and pick your Mac from the list. |
 | 🛡️ **Loopback protection** | Automatically ignores audio that would echo back into the stream (e.g. iPhone Mirroring). |
+| 🔈 **All your speakers** | Works with macOS Multi-Output Devices — your Mac's speakers and an external monitor play together. |
 | 🔒 **Local only** | Audio never leaves your network. No accounts, no cloud. |
 
 ---
@@ -115,6 +115,8 @@ Lost packets are re-requested automatically, and playback accounts for each devi
 - [ ] Android & Windows
 
 ---
+
+<div align="center">
 
 Made with ♥ by **Kadir Köroğlu** · Source code is private.
 
