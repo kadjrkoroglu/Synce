@@ -10,6 +10,7 @@ Stream everything your Mac plays (Spotify, YouTube, movies, games…) to iPhones
 
 ![macOS](https://img.shields.io/badge/macOS-14.2%2B-7C5CFF?style=flat-square&logo=apple&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-15%2B-7C5CFF?style=flat-square&logo=apple&logoColor=white)
+![Android](https://img.shields.io/badge/Android-10%2B-7C5CFF?style=flat-square&logo=android&logoColor=white)
 ![Buffer](https://img.shields.io/badge/buffer-250%20ms-C9A7F5?style=flat-square)
 ![Sync](https://img.shields.io/badge/sync-%E2%89%880.2%20ms-C9A7F5?style=flat-square)
 ![Status](https://img.shields.io/badge/App%20Store-coming%20soon-E8B4D8?style=flat-square)
@@ -103,6 +104,14 @@ Lost packets are re-requested automatically, and playback accounts for each devi
 > On the first broadcast, macOS asks for **System Audio Recording** permission
 > (System Settings › Privacy & Security › Screen & System Audio Recording).
 
+### 🤖 On Android
+
+Android phones (Android 10+) can **listen** and **broadcast**. When broadcasting, Synce asks for
+microphone and screen/audio recording permission, then streams everything the phone plays.
+While live, the phone's media volume is muted so listeners aren't behind it; the phone itself
+plays in sync with the others (toggle **Also play on this phone**). Media volume comes back when
+you stop.
+
 ---
 
 ## 🗺️ Roadmap
@@ -112,7 +121,8 @@ Lost packets are re-requested automatically, and playback accounts for each devi
 - [x] English & Turkish
 - [ ] App Store release (free listening, one-time **Pro** unlock for broadcasting)
 - [ ] Per-app capture, multiple rooms
-- [ ] Android & Windows
+- [x] Android (listen & broadcast)
+- [ ] Windows
 
 ---
 
