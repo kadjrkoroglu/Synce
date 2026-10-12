@@ -119,10 +119,9 @@ you stop.
 - [x] macOS broadcaster, iOS & macOS listeners
 - [x] Microphone auto-calibration
 - [x] English & Turkish
-- [ ] App Store release (free listening, one-time **Pro** unlock for broadcasting)
-- [ ] Per-app capture, multiple rooms
 - [x] Android (listen & broadcast)
-- [ ] Windows
+- [x] Windows
+- [ ] App Store release (free listening, one-time **Pro** unlock for broadcasting)
 
 ---
 
